@@ -1,3 +1,6 @@
+#include <string>
+#include <stack>
+
 class Solution {
 public:
     bool open_close(const char& first, const char& last)
