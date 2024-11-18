@@ -15,4 +15,4 @@ public:
         node -> next = node -> next -> next;
         delete tmp; 
     }
-};
+}; 
